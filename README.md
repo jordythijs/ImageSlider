@@ -12,6 +12,7 @@ jquery.slideImage.js  - The jQuery script
 slidein.php           - the PHP script
 
 === How to use ===
+
 1) Place the following code in your page (ending with .php, not .html), where "originalimage.jpg" is the starting image :
 	<?php require('slidein.php');?><img id="slidein" src="originalimage.jpg">
 
