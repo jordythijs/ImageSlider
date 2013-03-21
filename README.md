@@ -5,11 +5,17 @@ Easy to deploy, it cuts an image up in rows and let those imagerows slide to the
 Created in jQuery
 
 === Bundled files ===
+
 fullcolor.jpg         - sample file
+
 greyscale.jpg         - sample file
+
 index.php             - sample file
+
 jquery.slideImage.js  - The jQuery script
+
 slidein.php           - the PHP script
+
 
 === How to use ===
 
