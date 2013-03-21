@@ -1,6 +1,4 @@
 <?php
-// What is the original image?
-$original_image = "greyscale.jpg";
 // What is the sliding image?
 $slider_image = "fullcolor.jpg";
 // How many rows do you want?
@@ -8,7 +6,6 @@ $rowamount = "8";
  
 // Don't edit this part unless you know what you're doing
 if (!is_numeric($rowamount)) $rowamount = 8;
-if (!file_exists($original_image)) $original_image = "greyscale.jpg";
 if (!file_exists($slider_image)) $slider_image = "fullcolor.jpg";
 // End of part
 ?>
