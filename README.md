@@ -2,6 +2,7 @@ ImageSlider
 ===========
 
 Easy to deploy, it cuts an image up in rows and let those imagerows slide to the center atop another image 
+
 Created in jQuery
 
 === Bundled files ===
